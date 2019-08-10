@@ -1,7 +1,7 @@
 spring:
-  profiles: qa
+  profiles: dev
 
-name: raju-test
+email: raju-test
 
 ---
 spring:
