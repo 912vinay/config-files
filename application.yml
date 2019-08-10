@@ -5,7 +5,7 @@ name: raju
 
 ---
 spring:
-  profiles: hen
+  profiles: dev
 
 name: kaju
 
