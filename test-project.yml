@@ -1,11 +1,8 @@
 spring:
   profiles: dev
-
 email: raju-test
 
 ---
 spring:
   profiles: hen
-
 name: kaju-test
-
