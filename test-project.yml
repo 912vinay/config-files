@@ -1,0 +1,11 @@
+spring:
+  profiles: qa
+
+name: raju-test
+
+---
+spring:
+  profiles: hen
+
+name: kaju-test
+
