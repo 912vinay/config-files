@@ -1,11 +1,11 @@
 spring:
   profiles: qa
 
-name: raju
+name: raju  name from qa profiles and application.yml
 
 ---
 spring:
   profiles: dev
 
-name: kaju
+name: raju  name from dev profiles and application.yml
 
