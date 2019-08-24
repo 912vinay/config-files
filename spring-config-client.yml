@@ -6,10 +6,10 @@ msg: message from dev
 
 ---
 spring:
-  profiles: hen
-name: raju name  from spring-config-client-  dev hen
-email: from hen
-msg: hi hen
+  profiles: qa
+name: raju name  from spring-config-client-  dev qa
+email: from qa
+msg: hi qa
 
 ---
 spring:
