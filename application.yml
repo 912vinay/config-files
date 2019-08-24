@@ -2,6 +2,7 @@ spring:
   profiles: qa-hen
 
 name: raju  name from qa profiles and application.yml
+msg: prod msg global from qa-hen
 
 ---
 spring:
