@@ -13,6 +13,6 @@ name: raju  name from dev profiles and application.yml
 spring:
   profile: prod
 
-name: kaju from prod
-msg: prod msg
+name: kaju from prod global
+msg: prod msg global
 
