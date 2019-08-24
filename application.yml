@@ -9,10 +9,10 @@ spring:
 
 name: raju  name from dev profiles and application.yml
 
----
-spring:
-  profile: prod
-
-name: kaju from prod
-msg: prod msg
+#---
+#spring:
+#  profile: prod
+#
+#name: kaju from prod
+#msg: prod msg
 
