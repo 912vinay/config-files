@@ -10,3 +10,10 @@ spring:
 name: raju name  from spring-config-client-  dev hen
 email: from hen
 msg: hi hen
+
+---
+spring:
+  profiles: prod
+name: raju name  prod specif
+email: from prod specefic
+msg: hi prod specfic
