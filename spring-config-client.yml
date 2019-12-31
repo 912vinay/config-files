@@ -1,7 +1,7 @@
 spring:
   profiles: dev
 email: raju@gmail.com from spring-config-client-  dev profile
-name: kaju from dev dsds
+name: kaju from dev sasssssssssss
 msg: message from dev
 
 ---
