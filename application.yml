@@ -8,7 +8,7 @@ msg: prod msg global from qa-hen
 spring:
   profiles: dev
 
-name: raju  name from dev profiles and application.yml
+name: raju  name from dev profiles changed and application.yml
 
 ---
 spring:
