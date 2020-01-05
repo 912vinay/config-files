@@ -1,4 +1,3 @@
----
 spring:
   profiles: dev
 email: raju@gmail.com from spring-config-client-  dev profile
