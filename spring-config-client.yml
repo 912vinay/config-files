@@ -2,7 +2,7 @@ spring:
   profiles: dev
 email: raju@gmail.com from spring-config-client-  dev profile
 name: kaju from dev dswwwedsdsd
-msg: message from dev
+msg: message from dev sds
 
 ---
 spring:
@@ -14,6 +14,8 @@ msg: hi qa
 ---
 spring:
   profiles: prod
+
+
 name: raju name  prod specif
 email: from prod specefic
 msg: hi prod specfic
