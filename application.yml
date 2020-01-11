@@ -14,7 +14,7 @@ name: raju  name from dev profiles changed and application.yml
 spring:
   profile: prod
 
-name: kaju from prod global
+name: kaju from prod global  sdsd
 msg: prod msg global
 email: raju@gmaieel.com from global  dev profile
 
