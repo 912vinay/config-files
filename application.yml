@@ -1,14 +1,14 @@
 spring:
   profiles: qa-hen
 
-name: raju  name from qa profiles and rtrtrapplication.yml
+name: raju  name from qa profiles and application.yml
 msg: prod msg global from qa-hen
 
 ---
 spring:
   profiles: dev
 
-name: raju  name from dev profiles changed and rtrtrapplication.yml
+name: raju  name from dev profiles changed and application.yml
 
 ---
 spring:
@@ -16,4 +16,5 @@ spring:
 
 name: kaju from prod global
 msg: prod msg global
+email: raju@gmaieel.com from global  dev profile
 
