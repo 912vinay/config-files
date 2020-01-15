@@ -1,0 +1,21 @@
+spring:
+  profiles: dev
+email: raju@gmail.com from spring-config-client-  dev profile
+name: kaju from dev fssss
+msg: message from dev
+
+---
+spring:
+  profiles: qa
+name: raju name  from spring-config-client-  dev qa
+email: from qa
+msg: hi qa
+
+---
+spring:
+  profiles: prod
+
+
+name: raju name  prod specif
+email: from prod specefic
+msg: hi prod specfic fsds
